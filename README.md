@@ -9,7 +9,7 @@ This project analyzes the S&P 500 stock prices using three different time series
 
 Here’s a preview of the Excel VBA healthcare dashboard:
 
-![Dashboard Screenshot](power_BI_dashboard.png)
+![Dashboard Screenshot](Power_BI_dashboard.png)
 
 ## Project Features
 
