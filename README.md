@@ -45,14 +45,19 @@ Time-Series-S&P-Stock-Analysis/
 The ARIMA model is a statistical analysis model that uses time series data to predict future points. It captures autocorrelations in the data to make predictions.
 Implementation: The ARIMA model was implemented in a Google Colab notebook, making use of the statsmodels library.
 
-LSTM (Long Short-Term Memory)
+- LSTM (Long Short-Term Memory)
 LSTM is a recurrent neural network (RNN) architecture that excels at capturing long-term dependencies in sequential data, making it ideal for time series forecasting.
 Implementation: The LSTM model was developed using the TensorFlow and Keras libraries in Python.
 
-Prophet
+- Prophet
 Prophet is an open-source forecasting tool developed by Facebook. It is designed for time series forecasting with strong seasonal trends and multiple seasonality levels.
 Implementation: The Prophet model was implemented using the fbprophet library in Python.
 
-Visualization
-The predictions from the three models were visualized using Power BI. The Power BI dashboard provides interactive visualizations to compare the actual and predicted stock prices.
+- Visualization
+The Power BI dashboard provides interactive visualizations to compare the actual and predicted stock prices to understand Power BI dashboards
+
+## Acknowledgements
+- Kaggle: For providing the S&P stock prices dataset.
+- Google Colab: For offering a free and powerful cloud-based Python environment.
+- Facebook Prophet: For developing the Prophet model used in this project.
 
