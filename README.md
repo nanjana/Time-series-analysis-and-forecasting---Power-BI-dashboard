@@ -1,4 +1,3 @@
-# time-series-analysis---visualize-in-Power-BI-dashboard
 # Time Series Analysis of S&P Stock Prices
 
 ## Overview
